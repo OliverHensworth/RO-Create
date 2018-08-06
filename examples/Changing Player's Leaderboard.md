@@ -1,7 +1,7 @@
 # RO-Create Leaderboard Functions Example
 
 ### How to do this:
-![Example](../assets/RO-Create Leaderboard Functions Example.gif)
+![Example](https://media.giphy.com/media/jym9EJ8xnC07A6nkzP/giphy.gif)
 
 ### Here's how:
 ```lua
